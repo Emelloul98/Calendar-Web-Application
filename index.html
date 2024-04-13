@@ -1,0 +1,35 @@
+<html>
+    <head>
+        <title>Calendar</title>
+
+        <link type = "text/css" rel = "stylesheet" href = "ex3.css" /> 
+
+        <script src="ex3.js"></script>
+    </head>
+    <body onload="init()">
+        <div id="buttonsAndTitle">
+            <div class="buttons">
+            <button id = "prevMonth"><</button>
+            <button id = "nextMonth">></button>
+            <button id = "Today">Today</button>
+        </div>        
+        <div id="monthTitle"></div>
+        </div>
+        <table class="allTable">
+            <thead>
+              <tr>
+                <th>Sun</th>
+                <th>Mon</th>
+                <th>Tue</th>
+                <th>Wed</th>
+                <th>Thu</th>
+                <th>Fri</th>
+                <th>Sat</th>
+              </tr>
+            </thead>
+            <tbody id="calendarBody">
+              <!-- Calendar days will be inserted here -->
+            </tbody>
+        </table>
+    </body>
+</html>
