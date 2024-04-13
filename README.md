@@ -42,6 +42,6 @@ This project implements a calendar interface where users can interactively navig
 
 **Example:**
 
-![Calendar Web Application](https://example.com/calendar-app-screenshot.png)
+![Calendar Web Application]([https://example.com/calendar-app-screenshot.png](https://github.com/Emelloul98/Calendar-Web-Application/blob/main/Example.png))
 
 ---
